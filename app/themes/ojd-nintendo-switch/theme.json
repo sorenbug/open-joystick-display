@@ -7,6 +7,7 @@
     "license":"BSD 4-Clause Attribution",
     "website":"https://ojdproject.com",
     "styles":[
+	{"id":"joycon",  "name":"Switch Joycons"},
         {"id":"pro-gray",  "name":"Switch Pro Controller"},
         {"id":"pro-zelda", "name":"Switch Pro Controller Zelda", "file":"theme-zelda.html"},
         {"id":"pro-mario", "name":"Switch Pro Controller Mario", "file":"theme-mario.html"},
