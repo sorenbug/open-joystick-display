@@ -7,12 +7,12 @@
     "license":"BSD 4-Clause Attribution",
     "website":"https://ojdproject.com",
     "styles":[
-	{"id":"joycon",  "name":"Switch Joycons"},
         {"id":"pro-gray",  "name":"Switch Pro Controller"},
         {"id":"pro-zelda", "name":"Switch Pro Controller Zelda", "file":"theme-zelda.html"},
         {"id":"pro-mario", "name":"Switch Pro Controller Mario", "file":"theme-mario.html"},
         {"id":"pro-luigi", "name":"Switch Pro Controller Luigi", "file":"theme-luigi.html"},
         {"id":"pro-peach", "name":"Switch Pro Controller Peach", "file":"theme-peach.html"},
+        {"id":"joycon",  "name":"Switch Joycons", "file":"theme-joycon.html", "mastercss":"theme-joycon.css"},
         {"id":"joycons-gray", "name":"Switch Joycons (Gray)", "file":"theme-joycons-gray.html", "mastercss":"theme-joycon.css"},
         {"id":"joycons-blue-red", "name":"Switch Joycons (Blue+Red)", "file":"theme-joycons-blue-red.html", "mastercss":"theme-joycon.css"},
         {"id":"joycons-pink-green", "name":"Switch Joycons (Pink+Green)", "file":"theme-joycons-pink-green.html", "mastercss":"theme-joycon.css"},
