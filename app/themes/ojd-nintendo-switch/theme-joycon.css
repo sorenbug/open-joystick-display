@@ -4,6 +4,18 @@
     left:0px;
     width:600px;
     height:600px;
+    --left-color: #ff0000;
+    --left-light: #ff8080;
+    --left-shadow: #800000;
+    --right-color: #00ffff;
+    --right-light: #80ffff;
+    --right-shadow: #008080;
+    --bumper-light: #ff8000;
+    --bumper-color: #ff7000;
+    --bumper-shadow: #ff6000;
+    --bumper-buttons: #ffff00;
+    --left-shoulder: #00ff00;
+    --right-shoulder: #ff00ff;
 }
 .theme-analog-wrapper {
     position:absolute;
